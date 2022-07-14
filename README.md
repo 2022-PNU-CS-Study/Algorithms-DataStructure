@@ -45,6 +45,6 @@
 
 ## 👩‍💻🧑‍💻 스터디원
 
-<img src="https://avatars.githubusercontent.com/u/37135317?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/39328846?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/56557862?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/59327026?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/59275331?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/38307205?v=4" width=100>
-:---: | :---: |:---: | :---: | :---: | :---: |
-태형([@KimTaeHyeong17](https://github.com/KimTaeHyeong17)) | 혜성 ([@Hyesung82](https://github.com/Hyesung82)) | 혜원([@YumYumNyang](https://github.com/YumYumNyang)) | 진호([@zzzinho](https://github.com/zzzinho)) | 우영([@wooyoung-tom](https://github.com/wooyoung-tom)) | 재영([@jaeyeong951](https://github.com/jaeyeong951))
+<img src="https://avatars.githubusercontent.com/u/48706954?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/37135317?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/39328846?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/56557862?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/59327026?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/59275331?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/38307205?v=4" width=100>
+:---: | :---: | :---: |:---: | :---: | :---: | :---: |
+수빈([@subin914](https://github.com/subin914)) | 태형([@KimTaeHyeong17](https://github.com/KimTaeHyeong17)) | 혜성 ([@Hyesung82](https://github.com/Hyesung82)) | 혜원([@YumYumNyang](https://github.com/YumYumNyang)) | 진호([@zzzinho](https://github.com/zzzinho)) | 우영([@wooyoung-tom](https://github.com/wooyoung-tom)) | 재영([@jaeyeong951](https://github.com/jaeyeong951))
